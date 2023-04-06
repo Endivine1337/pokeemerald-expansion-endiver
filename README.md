@@ -1,3 +1,13 @@
+# Pokemon Emerald Endiver
+
+## This is a Romhack using the pokeemerald Expansion by rh-hideout
+
+For further information see down below.
+
+## Changes
+
+To be Made...
+
 # pokeemerald Expansion
 
 ## What is the pokeemerald Expansion?
